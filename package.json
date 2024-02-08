@@ -1,16 +1,13 @@
 {
-  "homepage": "https://GermanLP14.github.io/censo-2023",
   "name": "obligatorio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "start": "vite",
-    "build": "vite build",
-    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
