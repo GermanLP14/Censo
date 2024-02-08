@@ -15,7 +15,6 @@ import FinCenso from './components/FinCenso';
 function App() {
   return (
 
-
     <BrowserRouter>
       <Routes>
         <Route path="./" element={<Registro />}></Route>
