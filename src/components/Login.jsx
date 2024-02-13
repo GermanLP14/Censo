@@ -52,7 +52,7 @@ const Login = () => {
         <NavBarLogin />
         {/* Login */}
         <Container>
-          <h1>Logiiiiiiin</h1>
+          <h1>Login</h1>
           <br />
           <Form>
             <Form.Group>
